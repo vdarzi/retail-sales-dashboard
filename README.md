@@ -70,7 +70,7 @@ Even after simulating reduced discounts (20%), Tables remain unprofitable, confi
 **Vahid Darzi**  
 Junior Data Analyst  
 
-LinkedIn: (add later)
+LinkedIn: https://www.linkedin.com/in/vahid-darzi
 
 ---
 
