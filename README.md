@@ -1,5 +1,9 @@
 # Retail Sales Performance Dashboard (2014–2017)
 
+## 📊 Dashboard Preview
+
+![Retail Sales Dashboard](dashboard.png)
+
 ## 📊 Project Overview
 
 This project analyzes retail sales data from 2014 to 2017 using Google Sheets, focusing on sales performance, profitability, discount impact, and product-level insights.
