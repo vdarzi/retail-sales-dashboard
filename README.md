@@ -84,6 +84,16 @@ Sample retail dataset commonly used for analytics practice (Superstore-style tra
 
 ---
 
+
+## 🚀 Key Outcomes
+
+- Built an end-to-end retail sales dashboard using Google Sheets (pivot tables, charts, KPIs)
+- Identified loss-making subcategories and products despite high sales volumes
+- Quantified impact of discount strategy on profitability
+- Delivered executive-level insights and actionable business recommendations
+
+This project demonstrates practical skills in data cleaning, exploratory analysis, KPI design, dashboarding, and business storytelling.
+
 ## 📌 Notes
 
 This project was created as part of a career transition into Data Analytics and serves as a portfolio case study.
